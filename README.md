@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 
 PACKAGES:
 
-npm install react-router-dom
+npm install react-router-dom <br/>
 npm install react-google-charts
